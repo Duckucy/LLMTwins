@@ -1,3 +1,6 @@
+# 遇到的問題
+<img src="https://lurl.cc/GhHiJ">
+
 # LLMTwins
 LLMTwins is an innovative framework designed to streamline the development and deployment of digital twins powered by Large Language Models (LLMs). This cutting-edge tool provides developers with a comprehensive environment to create, train, and deploy AI-driven digital twins that can simulate and predict real-world behaviors and interactions. By leveraging the advanced capabilities of LLMs, LLMTwins enables highly accurate modeling of complex systems, offering insights and foresight into various scenarios across industries such as manufacturing, healthcare, urban planning, and beyond.
 
